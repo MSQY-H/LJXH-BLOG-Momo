@@ -7,8 +7,8 @@ import type {
 import type { FriendLink } from "./types/friend"
 
 export const siteConfig: SiteConfig = {
-    title: "Momo",
-    subTitle: "Blog",
+    title: "LJXH",
+    subTitle: "BLOG",
 
     favicon: "/favicon/favicon.ico", // Path of the favicon, relative to the /public directory
 
@@ -22,8 +22,8 @@ export const siteConfig: SiteConfig = {
     },
     comments: {
         enable: true, // Whether to enable comments
-        platform: "default", // Comment platform, set "default" to use Momo-backend, also supports "twikoo"
-        backendUrl: "https://api-momo.motues.top" // Backend URL for comments
+        platform: "twikoo", // Comment platform, set "default" to use Momo-backend, also supports "twikoo"
+        backendUrl: "https://ljxh-twikoo.hf.space" // Backend URL for comments
     },
     theme: {
         AOS: true, // Whether to enable AOS (Animate On Scroll) for animations
@@ -33,11 +33,11 @@ export const siteConfig: SiteConfig = {
 }
 
 export const profileConfig: ProfileConfig = {
-    avatar: "assets/Motues.jpg", // Relative to the /src directory. Relative to the /public directory if it starts with '/'
-    name: "Motues",
-    description: "Life is colorful!",
-    indexPage: "https://www.motues.top",
-    startYear: 2024,
+    avatar: "assets/avatar.webp", // Relative to the /src directory. Relative to the /public directory if it starts with '/'
+    name: "LJXH",
+    description: "NVIDIA GeForce RTX 5060 Ti",
+    indexPage: "https://momo.ljxh-h.cc.cd",
+    startYear: 2026,
 }
 
 export const licenseConfig: LicenseConfig = {
