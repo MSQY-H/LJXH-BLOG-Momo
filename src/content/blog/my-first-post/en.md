@@ -1,0 +1,158 @@
+---
+title: The first article
+pubDate: 2026-06-19
+description: The first article and testing
+image: ""
+draft: false
+slugId: momo/my-first-post
+---
+# The first article
+
+## Introduction
+
+Hello everyone! This blog is finally finished 🎉🎉🎉
+Here are some grammar tests
+
+## Grammar test
+
+### My weekend life record
+
+>  "Life is not lacking beauty, but lacking eyes that can discover it."
+>  <right>— Rodin</right>
+
+### 1. Morning ritual ☀️
+
+On weekend mornings, I usually don't set an alarm clock, letting sunlight wake me up through the curtains. The first thing I do after getting up is to make myself a cup of hot coffee, then sit by the window and read for a while.
+
+Recently, I've been reading a book called The Little Prince, and there's a line in it that left a deep impression on me:
+
+What truly matters is invisible to the eyes; only the heart can see it.
+
+Today's breakfast
+
+- Fried Egg (Single-sided Molten Heart)
+- Whole wheat toast
+- Fruit salad (forgot 🍓 to buy strawberries)
+- Hot Americano
+
+### 2. Outdoor time 🌳
+
+The morning weather was great, so I decided to take a walk in a nearby park. The cherry blossoms in the park have bloomed, their pink petals drifting down in the wind, like a gentle snowfall.
+
+!! From a distance, == looks like a =={watercolor} (shuǐ|cǎi|huà)!。
+
+I strolled slowly along the lakeside, my favorite song playing in my headphones:
+
+::music{id="1329665666"}
+
+### 3. Evening kitchen 🍳
+
+In the afternoon, I bought fresh ingredients from the supermarket and prepared to make myself a simple dinner.
+
+#### Dinner menu
+
+| Menu | Main ingredients | Time spent |
+| :---: | :----- | :---: |
+| Tomato Beef Brisket Noodles | Beef brisket, tomato, noodles | 60 minutes |
+| Garlic broccoli | Broccoli, minced garlic | 10 minutes |
+| ~~Cola~~ | ~~Coca-Cola~~ | 0 |
+
+> cooking tip: Blanch the beef brisket in cold water first to remove the blood foam, so the soup will be clear.
+
+#### Cooking code block (pseudocode)
+
+```python
+# 番茄牛腩面的简单流程
+def cook_dinner():
+    beef = 焯水(牛腩)
+    tomato = 切块(番茄)
+    soup = 炖煮(beef, tomato, 时间=60)
+    noodle = 煮面(面条, 时间=3)
+    return 装碗(soup, noodle)
+
+print(cook_dinner())
+# 输出：一碗香气扑鼻的番茄牛腩面 🍜
+```
+
+### 4. Evening tidying 📝
+
+After dinner, I take some time to record my mood for the day and plan my tasks for the next week.
+
+#### Weekend task list
+
+- [*] Read Chapter 3 of The Little Prince
+- [ ] Taking a walk in the park and taking photos
+- [ ] Organizing the wardrobe and seasonal garments
+- [*] Water the green plants at home
+- [*] Write a lifestyle blog
+
+#### This week's schedule summary
+
+| Date | Wake-up time | Sleep duration | Mood rating |
+| :---: | :---: | :---: | :--- |
+| Monday | 07:00 | 7.5h | ★★★☆ |
+| Tuesday | 06:45 | 8.0h | ★★★★ |
+| Wednesday | 07:10 | 7.0h | ★★★ |
+| Thursday | 06:50 | 7.5h | ★★★★ |
+|Friday | 07:00 | 8.0h | ★★★★★ |
+|Saturday | 09:30 | 9.0h | ★★★★★ |
+|Sunday| 08:45 | 8.5h | ★★★★ |
+
+### 5. Some life insights ✨
+
+There are many ++small but tangible happiness in life, such as:
+
+- The aroma of the first sip of coffee in the morning
+- On the way, you run into a cat willing to let you pet it
+- A gentle glow on the evening horizon
+- I received a message from a friend I hadn't contacted in a long time
+
+```markdown
+生活就像一杯白开水，
+你每天都在喝，
+不要羡慕别人喝的饮料有各种颜色，
+其实未必有你的白开水解渴。
+```
+
+This week's small happiness cards
+
+::quote
+"The best state of life is a quiet, bustling atmosphere."
+
+<br><right>— Mu Xin</right>
+::
+
+### 6. Health reminders 🏃
+
+:::tip
+Remember to exercise at least three times a week, each session lasting more than 30 minutes. Even brisk walking or stretching is much better than sitting for long periods!
+:::
+
+:::warning
+If you feel tired or overly stressed, be sure to give yourself time to rest. Life is a marathon, not a sprint.
+:::
+
+### 7. Footnotes and supplements
+
+Every little detail in life deserves to be recorded[^1]. This article was written by me using Markdown, and it feels increasingly user-friendly [^2].
+
+[^1]: There are many ways to record life: writing diaries, taking photos, recording Vlogs...... Just find what suits you.
+[^2]: Markdown is truly a great writing language, focusing on content rather than typography.
+
+### 8. Favorite videos
+
+<iframe src="//player.bilibili.com/player.html?isOutside=true&bvid=BV1Ek4y1r7Rg" scrolling="no" frameborder="no" framespacing="0" allowfullscreen="true" width="100%" height="200"></iframe>
+
+### 9. Recent projects to watch
+
+I've been following these projects lately, and they're quite interesting
+
+::github{repo="MSQY-H/Type"}
+
+This project is actually based on this
+
+::github{repo="Motues/Momo"}
+
+## Summary
+
+That's all for the first article. **You're welcome to join us! 🎉🎉🎉**
