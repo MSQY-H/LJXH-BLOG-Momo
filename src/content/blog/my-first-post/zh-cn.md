@@ -151,7 +151,7 @@ print(cook_dinner())
 
 最近在关注这些项目，挺有趣的
 
-::github{repo="MSQY-H/Momo"}
+::github{repo="MSQY-H/LJXH-BLOG-Momo"}
 
 这个项目其实是基于这个的
 
