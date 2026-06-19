@@ -1,0 +1,48 @@
+# 媒体目录配置
+media: 
+  - name: posts
+    label: Posts Images
+    input: src/content/blog
+    output: /src/content/blog
+    categories: [image]
+  - name: config
+    label: Config Files
+    input: src
+    output: src
+    categories: [code]
+# 内容管理配置
+content:
+  # 文章
+  - name: posts
+    type: collection
+    # 后台显示标签
+    label: Posts
+    # 内容存储目录
+    path: src/content/blog
+    # 是否支持子文件夹
+    subfolders: true
+    # 文件命名规则
+    filename:
+      template: "{primary}.md"
+      field: create
+    # 字段列表
+    fields:
+      - { name: title, label: Title 标题, type: string }
+      - { name: pubDate, label: Published Date 发布日期, type: date }
+      - { name: description, label: Description 文章描述, type: string, required: false }
+      - { name: image, label: Cover 封面, type: text, required: false }
+      - { name: cover, label: Upload File 仅用于上传文件，无实际用途, type: image, options: {media: posts},required: false }
+      - { name: category, label: Category 分类, type: string, required: false }
+      - { name: draft, label: Draft 草稿, type: boolean, required: false }
+      - { name: body, label: Body 主体, type: rich-text, required: true } 
+      - { name: slugId, label: Slug 自定义url, type: string, required: false }
+      - { name: pinTop, label: PinTop 置顶, type: number, required: false }
+  #特殊
+  - name: spec
+    type: collection
+    # 后台显示标签
+    label: Spec
+    # 内容存储目录
+    path: src/content/spec
+    # 是否支持子文件夹
+    subfolders: true
