@@ -120,11 +120,11 @@ print(cook_dinner())
 
 本周小确幸卡片
 
-::quote
+:::quote
 “生活的最佳状态是冷冷清清的风风火火。”
 
 <br><right>—— 木心</right>
-::
+:::
 
 ### 6. 健康提醒 🏃
 
