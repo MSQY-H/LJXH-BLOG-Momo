@@ -120,11 +120,11 @@ Actually, it might not be as good as your plain water to quench your thirst.
 
 This week's small happiness cards
 
-::quote
+:::quote
 "The best state of life is a quiet, bustling atmosphere."
 
 <br><right>— Mu Xin</right>
-::
+:::
 
 ### 6. Health reminders 🏃
 
