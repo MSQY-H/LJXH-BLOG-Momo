@@ -17,8 +17,8 @@ slugId: momo/my-first-post
 
 ### 我的周末生活记录
 
-“生活不是缺少美，而是缺少发现美的眼睛。”
-<right>—— 罗丹</right>
+>  “生活不是缺少美，而是缺少发现美的眼睛。”
+>  <right>—— 罗丹</right>
 
 ### 1. 早间仪式 ☀️
 
@@ -49,16 +49,17 @@ slugId: momo/my-first-post
 
 下午从超市买了新鲜的食材，准备给自己做一顿简单的晚餐。
 
-晚餐菜单
+#### 晚餐菜单
 
-菜品 主要食材 耗时
-番茄牛腩面 牛腩、番茄、面条 60分钟
-蒜蓉西兰花 西兰花、蒜末 10分钟
-~~可乐~~ ~~零度可乐~~ 0
+| 菜品 | 主要食材 | 耗时 |
+| :---: | :----- | :---: |
+| 番茄牛腩面 | 牛腩、番茄、面条 | 60分钟 |
+| 蒜蓉西兰花 | 西兰花、蒜末 | 10分钟 |
+| ~~可乐~~ | ~~可口可乐~~ | 0 |
 
-烹饪小贴士：牛腩要先用冷水焯一下，去掉血沫，这样汤才会清澈。
+>烹饪小贴士：牛腩要先用冷水焯一下，去掉血沫，这样汤才会清澈。
 
-烹饪代码块（伪代码）
+#### 烹饪代码块（伪代码）
 
 ```python
 # 番茄牛腩面的简单流程
@@ -140,7 +141,7 @@ print(cook_dinner())
 
 ### 8. 喜欢的视频
 
-<iframe src="//player.bilibili.com/player.html?isOutside=true&bvid=BV1Ek4y1r7Rg" scrolling="no" frameborder="no" framespacing="0" allowfullscreen="true" width="100%" height="468"></iframe>
+<iframe src="//player.bilibili.com/player.html?isOutside=true&bvid=BV1Ek4y1r7Rg" scrolling="no" frameborder="no" framespacing="0" allowfullscreen="true" width="100%" height="200"></iframe>
 
 ### 9. 最近关注的项目
 
