@@ -9,16 +9,16 @@ const translation: Translation = {
     },
     cover: {
         title: {
-            home: "Welcome to Momo's Blog",
+            home: "Welcome to LJXH BLOG",
             archive: "Archive",
             about: "About",
             friends: "Friends",
         },
         subTitle: {
-            home: "Life is colorful!",
+            home: "天青色等烟雨 而我在等你",
             archive: "Total of {count} articles",
-            about: "A minimalist blog template",
-            friends: "Interesting Souls",
+            about: "LJXH BLOG",
+            friends: "There are my friends. Welcome everyone",
         }
     },
     toc: "Contents",
