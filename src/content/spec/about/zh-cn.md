@@ -1,39 +1,82 @@
+大家好！我是**LJXH**，一个来自中国的学生。
 
-Momo 取自小红书📕，每个新用户最初的昵称，象征着初始新生。博客的设计理念也来自于此，从简约出发，在复杂功能与简约设计之间达到一种平衡。
+!!你竟然能找到这里，那你真是太强了！毕竟也没什么人知道这里!!
 
-## ✨ 特性
+![我的头像]([../assets/avatar.webp "我的头像")
 
-* **极简设计**：页面设计简约，黑白为主色调，蓝色进行点缀
-* **深色模式**：支持手动切换或自动跟随系统
-* **文章搜索功能**：使用 [pagefind](https://pagefind.app/) 实现本地化搜索功能
-* **国际化（i18n）**：支持多语言切换，目前支撑简体中文、英文
-* **移动端适配**：组件针对移动端进行优化，拥有和电脑浏览器一样的使用体验
-* **评论功能**：支持本地部署和 Cloudflare 部署，具体参考 [Backend](https://github.com/Motues/Momo-Backend)
-* **丰富的Markdown语法**：支持 Katex，Typst，Alert 组件，Github 卡片，自定义语法等
-* 其他基本功能：文章分类，目录，RSS订阅，文字统计，阅读时间
+:::quote
 
+NVIDIA GeForce RTX 5060 Ti
+<br><right>——LJXH的个性签名</right>
+:::
 
-## 🚀 快速开始
+## 为什么做这个博客
 
-1. 克隆本项目
-    ```bash
-    git clone https://github.com/Motues/Momo.git
-    cd Momo
-    ```
-2. 运行 `pnpm install` 安装依赖（使用 `npm install -g pnpm` 安装 `pnpm`）
-3. 运行 `pnpm dev` 启动开发服务器
+在家里无聊，玩Deepseek时突然想到可以搞个博客，便开始做了。这个博客是用手机做的。没错，手机也可以!!（其实是懒得开电脑了，手机是真麻烦，还不能用git和pnpm~~用termux也不是不行~~）!!！厉不厉害（得意.jpg）
 
-## 🔧 配置
+## 关于此网站
 
-参考[配置指南](/blog/intro/config)，阅读对应文章获取详细信息。
+### 技术
 
-## 📚 更新
+此网站是基于**Astro**的**Momo**主题制作的一个博客。开源链接在下面：
 
-参考[更新指南](/blog/intro/release)，介绍如何更新项目。
+::github{repo="withastro/astro"}
 
+::github{repo="Motues/Momo"}
 
-## 📚 参考
+::github{repo="MSQY-H/LJXH-BLOG-Momo"}
 
-* [Astro](https://astro.build/)
-* [Fuwari](https://github.com/saicaca/fuwari)
-* [Tyndall](https://github.com/moyuin-aka/tyndall-public)
+此网站部署于**Cloudflare Pages**，使用**Pages CMS**进行后台管理。
+
+::github{repo="hunvreus/pagescms"}
+
+!!据你所见，这个博客的链接是[https://momo.ljxh-h.cc.cd](https://momo.ljxh-h.cc.cd)，而不是[https://www.ljxh-h.cc.cd](https://www.ljxh-h.cc.cd)这样更常见的www二级域名。其实是因为这个博客不是我的主博客，而[这个](https://www.ljxh-h.cc.cd)才是我的主博客。欢迎大家来玩！🔥🔥🔥!!
+
+### 为什么选择这样
+
+选择Cloudflare Pages来部署这个静态博客的一个原因是**预算有限**~~（其实是根本没预算）~~，另一个原因是**Cloudflare确实方便**，一键设置dns记录，免费版还很慷慨。
+
+至于选择Astro和Momo主题，是因为Astro新，并且**速度极快**（虽然不如hugo）；Momo主题虽然**轻量**，但是**效果很好**。
+
+## 关于爱好
+
+其实也没有什么特别喜欢的东西。
+
+ 1. **火车**：
+    -公司：`广铁`!!~~抢铁U彩~~!!、`羊角`
+    -车型：`CR400AF-A`、`CRH380B`
+2. **游戏**：
+    -电脑：`Minecraft`、`Forza Horizon 4`、`Cities Skylines`
+    -Switch：`塞尔达传说：旷野之息`、`塞尔达传说：王国之泪`
+3. **运动**：`踩单车`
+4. **听歌**：
+::music{id="185904"}
+::music{id="185912"}
+::music{id="1329665666"}
+::music{id="477844082"}
+::music{id="536622304"}
+
+## 关于技能
+
+- **编程**：`Python`、`C++`、`HTML`、`CSS`、`JavaScript`、`Java` 
+- **软件**：`能熟练使用Windows、安卓`、`玩过Linux`、`能熟练安装卸载各大软件`、`会解压`、`熟练使用Office`
+- **WEB**：`会建站`、`会使用搜索引擎`
+- **硬件**：`能装机`、`能修复简单问题`
+- **运动**：`考试各大项目`
+
+!!说实在吧，啥都学过，最后还是Ctrl + C、Ctrl + V!!
+
+## 关于未来
+
+如果有时间，我就会继续更新博客。当然，只是随缘更新。
+
+没有什么特别宏大的目标，就是考个好一点的学校，平常骑自行车去更远的地方，拍到更好的高铁（如果想看我拍的照的话，[点击这里](https://www.ljxh-h.cc.cd/gallery/train/)），把生活过好就行。
+
+## 联系
+
+- 邮箱📬：
+    - [LJXH_H@outlook.com](mailto:LJXH_H@outlook.com)
+    - [Hydroxid_Hualin@outlook.com](mailto:Hydroxid_Hualin@outlook.com)
+- Github🖥️：
+    - [HXJLA](https://github.com/HXJLA)
+    - [MSQY-H](https://github.com/MSQY-H)
