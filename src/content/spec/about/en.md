@@ -14,7 +14,7 @@ NVIDIA GeForce RTX 5060 Ti
 
 Bored at home, I suddenly thought I could start a blog while playing Deepseek, so I started it. This blog is made on a mobile phone. That's right, phones work too
 
-!!(Actually, I'm just too lazy to turn on the computer. The phone is really troublesome, and you can't use git or pnpm ~~and termux isn't bad either~~)!!
+(Actually, I'm just too lazy to turn on the computer. The phone is really troublesome, and you can't use git or pnpm ~~and termux isn't bad either~~)
 
 Impressive or not (proud.jpg)
 
@@ -38,7 +38,7 @@ In addition, [this one](https://www.ljxh-h.cc.cd) is my main blog. Everyone is w
 
 ### Why choose this way?
 
-One reason I chose Cloudflare Pages to deploy this static blog was **limited budget** ~~(actually, I had no budget at all)~~, and another reason was that **Cloudflare is really convenient**—setting DNS records with one click, and the free version is very generous.
+One reason I chose Cloudflare Pages to deploy this static blog was **limited budget** ~~(actually, I had no budget at all)~~, and another reason was that **Cloudflare is really convenient** —setting DNS records with one click, and the free version is very generous.
 
 As for choosing the Astro and Momo themes, it's because Astro is new and **very fast** (though not as fast as Hugo); Although the Momo theme is **lightweight**, it **works very well**.
 
@@ -47,7 +47,7 @@ As for choosing the Astro and Momo themes, it's because Astro is new and **very 
 Actually, there's nothing I particularly like.
 
  1. **Trains**:
-    - Company:`广铁` !!~~抢铁U彩~~!!、`羊角`
+    - Company:`广铁` ~~抢铁U彩~~ 、`羊角`
     - Vehicle Model:`CR400AF-A`、`CRH380B`
 2. **Games**:
     - Computer:`Minecraft`、`Forza Horizon 4`、`Cities Skylines`
