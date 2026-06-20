@@ -48,6 +48,12 @@ export const licenseConfig: LicenseConfig = {
 
 export const friendLinkConfig: FriendLink[] = [
     {
+        name: 'LJXH',
+        avatar: 'https://i.ibb.co/6RBCvLHc/avatar.webp',
+        url: 'https://www.ljxh-h.cc.cd',
+        description: 'NVIDIA GeForce RTX 5060 Ti'
+    },
+	{
         name: 'Motues',
         avatar: 'https://www.motues.top/avatar.jpg',
         url: 'https://www.motues.top',
