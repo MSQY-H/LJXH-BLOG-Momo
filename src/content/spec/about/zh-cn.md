@@ -14,7 +14,7 @@ NVIDIA GeForce RTX 5060 Ti
 
 在家里无聊，玩Deepseek时突然想到可以搞个博客，便开始做了。这个博客是用手机做的。没错，手机也可以！
 
-!!（其实是懒得开电脑了，手机是真麻烦，还不能用git和pnpm~~用termux也不是不行~~）!!
+（其实是懒得开电脑了，手机是真麻烦，还不能用git和pnpm~~用termux也不是不行~~）
 
 厉不厉害（得意.jpg）
 
@@ -38,7 +38,7 @@ NVIDIA GeForce RTX 5060 Ti
 
 ### 为什么选择这样
 
-选择Cloudflare Pages来部署这个静态博客的一个原因是**预算有限**~~（其实是根本没预算）~~，另一个原因是**Cloudflare确实方便**，一键设置dns记录，免费版还很慷慨。
+选择Cloudflare Pages来部署这个静态博客的一个原因是**预算有限** ~~（其实是根本没预算）~~，另一个原因是**Cloudflare确实方便**，一键设置dns记录，免费版还很慷慨。
 
 至于选择Astro和Momo主题，是因为Astro新，并且**速度极快**（虽然不如hugo）；Momo主题虽然**轻量**，但是**效果很好**。
 
@@ -47,7 +47,7 @@ NVIDIA GeForce RTX 5060 Ti
 其实也没有什么特别喜欢的东西。
 
  1. **火车**：
-    - 公司：`广铁` !!~~抢铁U彩~~!! 、`羊角`
+    - 公司：`广铁` ~~抢铁U彩~~ 、`羊角`
     - 车型：`CR400AF-A`、`CRH380B`
 2. **游戏**：
     - 电脑：`Minecraft`、`Forza Horizon 4`、`Cities Skylines`
