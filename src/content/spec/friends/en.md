@@ -1,14 +1,14 @@
 ### Add a Link Exchange
 
-If we view the internet as the sky, blogs are the stars scattered across it. Link exchanges are the pathways through this vast sea of stars, connecting each one so they're no longer isolated islands. If you'd like to join this stellar network, feel free to send an [email](mailto:me@motues.top) so we can get to know each other.
+This is the friend link interface of LJXH. If you want to join, feel free to send one[Email](mailto:ljxh_h@outlook.com), get to know each other.
 
 ### Link Exchange Format
 
 ```ts
 {
-    name: 'Motues',
-    avatar: 'https://www.motues.top/avatar.jpg',
-    url: 'https://www.motues.top',
-    description: 'Like River!'
+    name: 'LJXH',
+    avatar: 'https://www.ljxh-h.cc.cd/avatar.jpg',
+    url: 'https://www.ljxh-h.cc.cd',
+    description: 'NVIDIA GeForce RTX 5060 Ti'
 }
 ```
