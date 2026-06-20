@@ -12,7 +12,11 @@ NVIDIA GeForce RTX 5060 Ti
 
 ## 为什么做这个博客
 
-在家里无聊，玩Deepseek时突然想到可以搞个博客，便开始做了。这个博客是用手机做的。没错，手机也可以!!（其实是懒得开电脑了，手机是真麻烦，还不能用git和pnpm~~用termux也不是不行~~）!!！厉不厉害（得意.jpg）
+在家里无聊，玩Deepseek时突然想到可以搞个博客，便开始做了。这个博客是用手机做的。没错，手机也可以！
+
+!!（其实是懒得开电脑了，手机是真麻烦，还不能用git和pnpm~~用termux也不是不行~~）!!
+
+厉不厉害（得意.jpg）
 
 ## 关于此网站
 
@@ -30,7 +34,7 @@ NVIDIA GeForce RTX 5060 Ti
 
 ::github{repo="hunvreus/pagescms"}
 
-!!据你所见，这个博客的链接是[https://momo.ljxh-h.cc.cd](https://momo.ljxh-h.cc.cd)，而不是[https://www.ljxh-h.cc.cd](https://www.ljxh-h.cc.cd)这样更常见的www二级域名。其实是因为这个博客不是我的主博客，而[这个](https://www.ljxh-h.cc.cd)才是我的主博客。欢迎大家来玩！🔥🔥🔥!!
+此外，我的主博客是[这个](https://www.ljxh-h.cc.cd)，欢迎大家来玩！
 
 ### 为什么选择这样
 
@@ -43,11 +47,11 @@ NVIDIA GeForce RTX 5060 Ti
 其实也没有什么特别喜欢的东西。
 
  1. **火车**：
-    -公司：`广铁`!!~~抢铁U彩~~!!、`羊角`
-    -车型：`CR400AF-A`、`CRH380B`
+    - 公司：`广铁` !!~~抢铁U彩~~!! 、`羊角`
+    - 车型：`CR400AF-A`、`CRH380B`
 2. **游戏**：
-    -电脑：`Minecraft`、`Forza Horizon 4`、`Cities Skylines`
-    -Switch：`塞尔达传说：旷野之息`、`塞尔达传说：王国之泪`
+    - 电脑：`Minecraft`、`Forza Horizon 4`、`Cities Skylines`
+    - Switch：`塞尔达传说：旷野之息`、`塞尔达传说：王国之泪`
 3. **运动**：`踩单车`
 4. **听歌**：
 ::music{id="185904"}
