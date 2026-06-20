@@ -36,7 +36,7 @@ export const profileConfig: ProfileConfig = {
     avatar: "assets/avatar.webp", // Relative to the /src directory. Relative to the /public directory if it starts with '/'
     name: "LJXH",
     description: "NVIDIA GeForce RTX 5060 Ti",
-    indexPage: "https://momo.ljxh-h.cc.cd",
+    indexPage: "https://life.ljxh-h.cc.cd",
     startYear: 2026,
 }
 
